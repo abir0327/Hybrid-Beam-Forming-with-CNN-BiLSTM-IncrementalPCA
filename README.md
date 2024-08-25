@@ -3,7 +3,7 @@ Hybrid beamforming has gained popularity in recent years due to its ability to e
 
 **Dataset can be found in this drive link https://drive.google.com/file/d/1QdGAhwR6S2Idt3Lud2n2lF92zvhjwKJB/view?usp=drive_link**
 
-[[[**Copyright**]]]
+[**Copyright**]
 
 Feel free to use this code as a starting point for your own research. If you do, we kindly ask that you cite the following paper:
 **Deep Learning based enhanced hybrid beamforming using RSSI signals in MIMO systems** [https://www.sciencedirect.com/science/article/pii/S2772671124003188?via%3Dihub](url)
